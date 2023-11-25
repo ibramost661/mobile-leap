@@ -1,0 +1,13 @@
+/* .t1 {
+    text-align: right;
+    border: 5px;
+} */
+
+table, th, td {
+    border: 1px solid b;
+    border-collapse: collapse;
+    border-radius: 10px;
+  }
+  th, td {
+    background-color: #96D4D4;
+  }
